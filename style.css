@@ -71,6 +71,7 @@ nav ul li a span {
     font-size: 10pt;
     padding: 10px 0 10px 0;
     background-color: #096D25;
+    width: 100%;
 }
 .main-nav ul li {
     display: inline-block;
@@ -243,4 +244,11 @@ nav ul li a span {
     width: 15%;
     color: #fff;
     background-color: #096D25;
+}
+footer {
+    background-color: #999;
+    padding: 50px;
+    bottom: 0;
+    width: 92.2%;
+    overflow: hidden;
 }
