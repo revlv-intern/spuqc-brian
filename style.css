@@ -109,6 +109,7 @@ nav ul li a span {
     border-top: 4px solid #096D25;
     height: 520px;
     color: #9D8F7F;
+    background-color: #fff;
 }
 .content h3,h5,h6{
     padding: 30px;
@@ -170,6 +171,7 @@ nav ul li a span {
     border-top: 4px solid #096D25;
     height: 235px;
     color: #9D8F7F;
+    background-color: #fff;
 }
 .sub-content h3,h5,h6{
     padding: 30px;
@@ -206,6 +208,8 @@ nav ul li a span {
     border-top: 4px solid #096D25;
     height: 520px;
     color: #9D8F7F;
+    margin-bottom: 50px;
+    background-color: #fff;
 }
 .last-content h3,h5,h6{
     padding: 30px;
@@ -215,4 +219,28 @@ nav ul li a span {
     border-bottom: 1px solid #ccc;
     padding-top: 20px;
     color: #096D25;
+}
+.last-content .last-input {
+    width: 32%;
+    overflow: hidden;
+    position: relative;
+    float: left;
+}
+.input {
+    padding: 20px;
+    margin: 0 20px 20px 30px;
+    width: 75%;
+}
+.input-subj {
+    width: 88%;
+    padding: 20px;
+    margin: 0 20px 20px 30px;
+}
+.btn-inqry {
+    padding: 16px;
+    margin-left: 30px;
+    border: 1px solid #096D25;
+    width: 15%;
+    color: #fff;
+    background-color: #096D25;
 }
