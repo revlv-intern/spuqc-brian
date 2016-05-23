@@ -103,6 +103,64 @@ nav ul li a span {
 .main-content {
     width: 100%;
 }
-
-
-
+.content {
+    width: 32%;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    position: relative;
+    float: left;
+    margin-right: 1.1%;
+    margin-top: 20px;
+    border-top: 4px solid #096D25;
+    height: 520px;
+    color: #9D8F7F;
+}
+.content h3,h5,h6{
+    padding: 30px;
+    border-top: 1px solid #ccc;
+    padding-top: 5px;
+}
+.content h3 {
+    padding-top: 20px;
+    color: #096D25;
+}
+.content h6 {
+    border-top: none;
+}
+.content .featured h3 {
+    padding-bottom: 30px;
+}
+.content .news h5 {
+    padding-bottom: 0;
+    padding-top: 5px;
+}
+.content h6 {
+    padding-top: 5px;
+}
+.content .news {
+}
+.content .featured img {
+    width: 100%;
+    height: 100%;
+    border: none;
+    margin-right: 0;
+    position: relative;
+}
+.btn {
+    padding: 20px;
+    background-color: #096D25;
+    bottom: 0;
+    width: 100%;
+    border: none;
+    color: #fff;
+}
+.announce {
+    margin-top: 119px;
+}
+.feat {
+    right: 0;
+    position: absolute;
+}
+.newsbtn {
+    margin-top: 25px;
+}
